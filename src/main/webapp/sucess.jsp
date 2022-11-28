@@ -55,11 +55,11 @@
             <img src="https://github.com/Abhishekbestha/k-links/blob/main/src/coder1.gif?raw=true" alt="Learning"
                  width="20%" height="20%"><br>
             <!-- <div class="links"> -->
-            <pre>   To learn concepts of java                   ======>   <a href="java.html">Refer Here</a><br>
-            To learn concepts of SQL                    ======>   <a href="sql.html">Refer Here</a><br>
-            To learn concepts of Automation testing     ======>   <a href="automationtesting.html">Refer Here</a><br>
-            To learn concepts of Collection Freamworks  ======>   <a href="collectionframeworks.html">Refer Here</a><br>
-            Weekly Programming                          ======>   <a href="weeklyprogramming.html">Refer Here</a><br></pre><br>
+            <pre>   To learn concepts of java                   ======>   <a href="https://github.com/Abhishekbestha/k-links/blob/main/java.html">Refer Here</a><br>
+            To learn concepts of SQL                    ======>   <a href="https://github.com/Abhishekbestha/k-links/blob/main/sql.html">Refer Here</a><br>
+            To learn concepts of Automation testing     ======>   <a href="https://github.com/Abhishekbestha/k-links/blob/main/automationtesting.html">Refer Here</a><br>
+            To learn concepts of Collection Freamworks  ======>   <a href="https://github.com/Abhishekbestha/k-links/blob/main/collectionframeworks.html">Refer Here</a><br>
+            Weekly Programming                          ======>   <a href="https://github.com/Abhishekbestha/k-links/blob/main/weeklyprogramming.html">Refer Here</a><br></pre><br>
             <!-- </div> -->
 
             <h3><i>----------> Happy learning <--------- </i>
