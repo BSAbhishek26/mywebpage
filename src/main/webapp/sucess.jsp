@@ -56,10 +56,10 @@
                  width="20%" height="20%"><br>
             <!-- <div class="links"> -->
             <pre>   To learn concepts of java                   ======>   <a href="java.html">Refer Here</a><br>
-                 To learn concepts of SQL                    ======>   <a href="sql.html">Refer Here</a><br>
-                 To learn concepts of Automation testing     ======>   <a href="automationtesting.html">Refer Here</a><br>
-                 To learn concepts of Collection Freamworks  ======>   <a href="collectionframeworks.html">Refer Here</a><br>
-                 Weekly Programming                          ======>   <a href="weeklyprogramming.html">Refer Here</a><br></pre><br>
+            To learn concepts of SQL                    ======>   <a href="sql.html">Refer Here</a><br>
+            To learn concepts of Automation testing     ======>   <a href="automationtesting.html">Refer Here</a><br>
+            To learn concepts of Collection Freamworks  ======>   <a href="collectionframeworks.html">Refer Here</a><br>
+            Weekly Programming                          ======>   <a href="weeklyprogramming.html">Refer Here</a><br></pre><br>
             <!-- </div> -->
 
             <h3><i>----------> Happy learning <--------- </i>
